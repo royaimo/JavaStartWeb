@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp  spec="1.0+" codebase="https://github.com/royaimo/JavaStartWeb.git" href="Calculadora.jnlp">
+<information>
+    <title>Demo de App de Mi Calculadora</information>
+    <vendor> Roy </vendor>
+    <description> Una Calculadora JAVA lanzada como JavaStartWeb </description>
+</information>
+<resources>
+    <j2se version="5.0+"/>
+    <jar href="Calculadora.jar"/>
+</resources>
+<application-desc main-class="MarcoLayoutODisposicionesCalculadoraVideo83bis">
+</application-desc>
+</jnlp>
